@@ -1,16 +1,2 @@
-# assignment_api_datafetch
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1707633306](https://github.com/Bayzidbaky1/fetch-data-assignment2/assets/106180500/5fe976c4-2da6-4ce3-ac6d-e843c8ba1d09)
+![Screenshot_1707633310](https://github.com/Bayzidbaky1/fetch-data-assignment2/assets/106180500/79ee3e3c-720b-4992-ab57-8bca31f2eeb4)
